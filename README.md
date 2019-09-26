@@ -14,3 +14,7 @@ RedisDesktopManager Windows版本
 1. 程序启动出现 0xc000007b错误。
 
    下载运行[vc_redist.x64](https://aka.ms/vs/15/release/vc_redist.x64.exe)点击修复选项。
+
+- 原作者在 0.9.4 版本之后选择对所有的安装包收费，不再提供安装包下载，但是源码依旧公开。
+- 此版本为2019.3中文版，不支持ssh通道连接。
+
